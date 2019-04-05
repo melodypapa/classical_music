@@ -17,10 +17,10 @@ Classical Music
 12. 歌剧：开罗的鹅
 13. 歌剧：受骗的丈夫
 14. 歌剧：剧院经理
-15. 歌剧：费加罗的婚礼
-16. 歌剧：唐璜
-17. 歌剧女人心
-18. 歌剧：魔笛
+15. 歌剧：费加罗的婚礼 （Le nozze di Figaro/The Marriage of Figaro）
+16. 歌剧：唐璜 （Don Giovanni）
+17. 歌剧：女人心
+18. 歌剧：魔笛 （Die Zauberflöte/The Magic Flute）
 19. 歌剧：狄托的仁慈
 
 https://en.wikipedia.org/wiki/List_of_operas_by_Wolfgang_Amadeus_Mozart
